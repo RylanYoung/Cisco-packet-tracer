@@ -39,6 +39,7 @@ Switches → Access Points
 
 End Devices → Switches or Wireless
 
+
 2️⃣ **VLAN Configuration**
 Create 4 VLANs for departments:
 
