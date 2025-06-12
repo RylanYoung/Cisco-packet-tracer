@@ -38,6 +38,7 @@ Router → Switches
 Switches → Access Points
 
 End Devices → Switches or Wireless
+![Alt text](![cisco prokject #2](https://github.com/user-attachments/assets/8705b52e-fb6a-42fd-a2ae-7c4a86917856))
 
 
 2️⃣ **VLAN Configuration**
