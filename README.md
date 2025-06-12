@@ -38,7 +38,7 @@ Router → Switches
 Switches → Access Points
 
 End Devices → Switches or Wireless
-![Alt text](![cisco prokject #2](https://github.com/user-attachments/assets/8705b52e-fb6a-42fd-a2ae-7c4a86917856))
+[cisco prokject #2](https://github.com/user-attachments/assets/8705b52e-fb6a-42fd-a2ae-7c4a86917856)
 
 
 2️⃣ **VLAN Configuration**
@@ -78,7 +78,8 @@ VLAN	Subnet	Gateway Example
 6️⃣ **DHCP Configuration**
 Create DHCP pools for each subnet.
 
-Assign correct default gateways per VLAN.
+Assign the correct default gateways per VLAN.
+![csico project #3](https://github.com/user-attachments/assets/0f34fd27-1e7f-4939-afe7-bde7b5151e51)
 
 7️⃣ **Recreate Subinterfaces** 
 Ensure router subinterfaces match correct VLAN assignments and IP addressing.
@@ -94,6 +95,7 @@ Connect wireless clients to appropriate SSIDs.
 Ping between VLANs to verify routing.
 
 Confirm DHCP assigns correct addresses to devices.
+![cisco project #4](https://github.com/user-attachments/assets/bfc32d3f-5466-4b7d-bdde-0011c7269c72)
 
 🔟 **Troubleshooting DHCP** (IT Department)
 Identified the incorrect gateway in IT DHCP pool.
@@ -108,6 +110,7 @@ Create ACL to limit external access:
 Only 5 authorized workstations allowed inbound communication.
 
 Apply ACL inbound on router.
+![csico project #5](https://github.com/user-attachments/assets/074e3c5b-172a-4367-9273-3834835b3dab)
 
 1️⃣2️⃣ **Outbound ACL** (Service Filtering)
 Create ACL to allow only:
@@ -121,6 +124,7 @@ DNS (53)
 ICMP (Ping)
 
 Apply ACL outbound to restrict allowed services.
+![cisco #6](https://github.com/user-attachments/assets/2b7a8d07-9838-4674-b236-50596e90e013)
 
 1️⃣3️⃣ **Router Security Hardening**
 Apply security best practices:
@@ -136,6 +140,7 @@ Enable password encryption
 Apply banner message (legal warning)
 
 Disable unused services
+![cisco #7](https://github.com/user-attachments/assets/5f03ccda-5941-440e-a156-622d8c4fe174)
 
 1️⃣4️⃣ **Final Testing**
 Verify:
@@ -149,3 +154,4 @@ Wireless connectivity
 ACL filtering (inbound & outbound)
 
 Router security configuration
+![Cisco final product](https://github.com/user-attachments/assets/e3e55365-ab49-4e9f-9a9e-7fe87711ae48)
