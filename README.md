@@ -10,7 +10,7 @@ Design and secure a small home office network in Cisco Packet Tracer featuring 4
 - Dynamic Host Configuration Protocol (DHCP)
 - Access Control Lists (ACLs)
 - Network Security Hardening
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Development of critical thinking and troubleshooting skills in cybersecurity and networking.
 
 ### Tools Used
 
